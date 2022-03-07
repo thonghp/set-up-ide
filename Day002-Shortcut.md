@@ -17,6 +17,7 @@
   - [4. Shortcut trong Windows 10 thường dùng nhất](#4-shortcut-trong-windows-10-thường-dùng-nhất)
   - [5. Sử dụng workbench trong My SQL](#5-sử-dụng-workbench-trong-my-sql)
   - [6. Xóa phần mềm trên máy tính](#6-xóa-phần-mềm-trên-máy-tính)
+  - [7. Shortcut trong cmd](#7-shortcut-trong-cmd)
 
 ## 1. Shortcut trong intellij thường dùng nhất
 
@@ -216,3 +217,7 @@ Xóa phần mềm trên máy tính gồm 3 bước:
 - B2: vào ổ đĩa `C:` truy cập Program Files và xóa folder của phần mềm
 - B3: ra lại ổ đĩa `C:` truy cập ProgramData và xóa folder của phần mềm
 - B4: ra lại ổ đĩa `C:` truy cập Users => Admin => AppData => Roaming => chọn folder của phần mềm
+
+## 7. Shortcut trong cmd
+
+- `cls` => xóa màn hình lệnh như clear trong github
