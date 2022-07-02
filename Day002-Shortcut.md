@@ -37,6 +37,9 @@
 - viết nhanh đk if, try,... => `(statement) + ctrl + alt + T`
 - chọn class bên phần tab xem code không cần mở => `space`
 - replace => `ctrl + R`
+- tìm nhanh method, class, file => `shift + shift`
+- tìm kiếm thông tin trong file, class, project, module => `ctrl + shift + F`
+- xoá import thừa => `ctrl + alt + O`
 - đóng cửa sổ => `ctrl + F4`
 - hint => `ctrl + space`
 - mở các file gần đây => `ctrl + E`
