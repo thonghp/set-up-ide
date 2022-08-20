@@ -34,6 +34,7 @@
 - tạo nhanh class => `alt + home => alt + insert`
 - move file => `F6`
 - hiện đề xuất, viết nhanh var và method => `alt + enter`
+- tạo nhanh test => `ctrl + shift + T`
 - viết nhanh đk if, try,... => `(statement) + ctrl + alt + T`
 - chọn class bên phần tab xem code không cần mở => `space`
 - replace => `ctrl + R`
