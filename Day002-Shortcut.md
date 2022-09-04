@@ -1,28 +1,31 @@
-#  Day 2: SHORTCUT IN IDE
+# Day 2: SHORTCUT IN IDE
 
 ## Mục Lục Nội Dung
 
-  - [1. Shortcut trong intellij thường dùng nhất](#1-shortcut-trong-intellij-thường-dùng-nhất)
-    - [1.1. Add maven](#11-add-maven)
-    - [1.2 Connect database SQL Server](#12-connect-database-sql-server)
-    - [1.3 Connect database My SQL](#13-connect-database-my-sql)
-    - [1.4 Sử dụng git](#14-sử-dụng-git)
-      - [1.4.1 Clone git về](#141-clone-git-về)
-      - [1.4.2 Úp dự án bất kỳ lên git mà chưa clone](#142-úp-dự-án-bất-kỳ-lên-git-mà-chưa-clone)
-    - [1.5 Plugin reset intellij](#15-plugin-reset-intellij)
-  - [2. Shortcut trong eclipse thường dùng nhất](#2-shortcut-trong-eclipse-thường-dùng-nhất)
-    - [2.1. Tùy chỉnh cài đặt trong eclipse thường dùng](#21-tùy-chỉnh-cài-đặt-trong-eclipse-thường-dùng)
-  - [3. Shortcut trong visual studio code thường dùng nhất](#3-shortcut-trong-visual-studio-code-thường-dùng-nhất)
-    - [3.1 Emmet](#31-emmet)
-  - [4. Shortcut trong Windows 10 thường dùng nhất](#4-shortcut-trong-windows-10-thường-dùng-nhất)
-  - [5. Sử dụng workbench trong My SQL](#5-sử-dụng-workbench-trong-my-sql)
-  - [6. Xóa phần mềm trên máy tính](#6-xóa-phần-mềm-trên-máy-tính)
-  - [7. Shortcut trong cmd](#7-shortcut-trong-cmd)
+- [1. Shortcut trong intellij thường dùng nhất](#1-shortcut-trong-intellij-thường-dùng-nhất)
+  - [1.1. Add maven](#11-add-maven)
+  - [1.2 Connect database SQL Server](#12-connect-database-sql-server)
+  - [1.3 Connect database My SQL](#13-connect-database-my-sql)
+  - [1.4 Sử dụng git](#14-sử-dụng-git)
+    - [1.4.1 Clone git về](#141-clone-git-về)
+    - [1.4.2 Úp dự án bất kỳ lên git mà chưa clone](#142-úp-dự-án-bất-kỳ-lên-git-mà-chưa-clone)
+  - [1.5 Plugin reset intellij](#15-plugin-reset-intellij)
+  - [1.6 Biến thành thư mục test và thêm thư viện maven](#16-biến-thành-thư-mục-test-và-thêm-thư-viện-maven)
+    - [1.6.1 Biến thành thư mục test](#161-biến-thành-thư-mục-test)
+    - [1.6.2 Thêm thư viện maven](#162-thêm-thư-viện-maven)
+- [2. Shortcut trong eclipse thường dùng nhất](#2-shortcut-trong-eclipse-thường-dùng-nhất)
+  - [2.1. Tùy chỉnh cài đặt trong eclipse thường dùng](#21-tùy-chỉnh-cài-đặt-trong-eclipse-thường-dùng)
+- [3. Shortcut trong visual studio code thường dùng nhất](#3-shortcut-trong-visual-studio-code-thường-dùng-nhất)
+  - [3.1 Emmet](#31-emmet)
+- [4. Shortcut trong Windows 10 thường dùng nhất](#4-shortcut-trong-windows-10-thường-dùng-nhất)
+- [5. Sử dụng workbench trong My SQL](#5-sử-dụng-workbench-trong-my-sql)
+- [6. Xóa phần mềm trên máy tính](#6-xóa-phần-mềm-trên-máy-tính)
+- [7. Shortcut trong cmd](#7-shortcut-trong-cmd)
 
 ## 1. Shortcut trong intellij thường dùng nhất
 
 - nhảy tới lỗi => `F2`
-- tạo command // => `ctrl + /` và command /* => `shift + ctrl + /`
+- tạo command // => `ctrl + /` và command /\* => `shift + ctrl + /`
 - format => `ctrl + atl + L`
 - rename => `shift + F6`
 - tạo nhanh println => `sout`
@@ -49,6 +52,8 @@
 - hiện các method in class => `alt + F7`
 - tìm class file => `ctrl + shift + N`
 
+**[⬆ Quay trở lại đầu trang](#mục-lục-nội-dung)**
+
 ### 1.1. Add maven
 
 - B1: chọn project => click chuột phải => add framework support => chọn maven
@@ -63,9 +68,11 @@
 
 ![alt text](/assets/day-02-add-maven3.jpg)
 
-  > vd ở đây thêm 2 thư viện mssql jdbc và jcalendar
+> vd ở đây thêm 2 thư viện mssql jdbc và jcalendar
 
-- B4: tiến hành tải thông qua chữ m 
+- B4: tiến hành tải thông qua chữ m
+
+**[⬆ Quay trở lại đầu trang](#mục-lục-nội-dung)**
 
 ### 1.2 Connect database SQL Server
 
@@ -81,7 +88,9 @@
 - B3: chọn vô tải driver thiếu ở dấu chấm thang màu vàng
 - B4: nhấn test connection để kiểm tra xem đã chạy được chưa, nếu được nhấn ok
 
-### 1.3 Connect database My SQL 
+**[⬆ Quay trở lại đầu trang](#mục-lục-nội-dung)**
+
+### 1.3 Connect database My SQL
 
 - B1: chọn database => chọn biểu tượng `+` => chọn data source => chọn database mình sử dụng, ở đây chọn My SQL
 
@@ -94,6 +103,8 @@
 - B3: chọn vô tải driver thiếu ở dấu chấm thang màu vàng
 - B4: nhấn test connection để kiểm tra xem đã chạy được chưa, nếu được nhấn ok
 
+**[⬆ Quay trở lại đầu trang](#mục-lục-nội-dung)**
+
 ### 1.4 Sử dụng git
 
 #### 1.4.1 Clone git về
@@ -102,25 +113,44 @@
 
 ![alt img](/assets/intellij-clone-git.png)
 
-- Nhập url của clone => lúc nay chọn new windows 
+- Nhập url của clone => lúc nay chọn new windows
 
 #### 1.4.2 Úp dự án bất kỳ lên git mà chưa clone
 
 Mở vô file dự án muốn úp
 
-- B1: Chọn create git repository => chọn folder project 
+- B1: Chọn create git repository => chọn folder project
 
 ![alt img](/assets/intellij-create-git-repo.png)
 
-- B2: Chọn file muốn add => chuột phải chọn git add 
+- B2: Chọn file muốn add => chuột phải chọn git add
 - B3: Commit => push (ở đây chưa connect với repo)
 - B4: define remote => chọn url clone => sau đó nhấn push (**lưu ý nếu đây là nhánh master thì có thể rename thành main**)
 
 ![alt img](/assets/intellij-define-remote.jpg)
 
-### 1.5 Plugin reset intellij 
+**[⬆ Quay trở lại đầu trang](#mục-lục-nội-dung)**
+
+### 1.5 Plugin reset intellij
 
 ![alt img](/assets/reset-intellij.png)
+
+### 1.6 Biến thành thư mục test và thêm thư viện maven
+
+#### 1.6.1 Biến thành thư mục test
+
+- B1: Tạo thư mục đặt tên là test, ngang hàng với src
+- B2: Chọn `Mark directory as` ==> `test source root`
+
+![create test folder](/assets/create-test-folder.png)
+
+#### 1.6.2 Thêm thư viện maven
+
+- B1 chọn `File` => `project structure`
+- B2 chọn `Libraries` => `+` => `From maven`
+- B3 tìm thư viện mình muốn xài
+
+**[⬆ Quay trở lại đầu trang](#mục-lục-nội-dung)**
 
 ## 2. Shortcut trong eclipse thường dùng nhất
 
@@ -140,11 +170,15 @@ Mở vô file dự án muốn úp
 - mở thanh điều hướng ở trên => `alt + F`
 - nhảy tới dòng chỉ định => `ctrl + L`
 
+**[⬆ Quay trở lại đầu trang](#mục-lục-nội-dung)**
+
 ### 2.1. Tùy chỉnh cài đặt trong eclipse thường dùng
 
 - format vn => `Window => references => workspace => other => UTF-8`
 - hỗ trợ gợi ý code => `Window => references => Java => Editor => Content Assist`
-- format font chữ => `Window => references => appearence => colors and fonts => basic => text font` 
+- format font chữ => `Window => references => appearence => colors and fonts => basic => text font`
+
+**[⬆ Quay trở lại đầu trang](#mục-lục-nội-dung)**
 
 ## 3. Shortcut trong visual studio code thường dùng nhất
 
@@ -173,6 +207,8 @@ Mở vô file dự án muốn úp
 - Đóng file => `Ctrl + F4` or `ctrl + W`
 - Open bảng các phím tắt => `ctrl + K + S`
 
+**[⬆ Quay trở lại đầu trang](#mục-lục-nội-dung)**
+
 ### 3.1 Emmet
 
 - Div chứa class bên trong => `div.className + tab`
@@ -188,14 +224,14 @@ Mở vô file dự án muốn úp
 - `ctrl + shift + esc` => mở task manager
 - `Windows + I` => mở setting trên win 10
 - `Windows + D` => quay về màn hình desktop
-- `ctrl + shift + T` => mở lại những tab đã coi nếu đã tắt 
+- `ctrl + shift + T` => mở lại những tab đã coi nếu đã tắt
 - `Windows + ;` => lấy icon
-- `Windows + R` => mở run 
+- `Windows + R` => mở run
   - `psr.exe` => mở ra cái hướng dẫn từng bước chạy chương trình
   - `osk` => mở bàn phím ảo
 - `Windows + L` => khóa màn hình về chế độ lock screen
 - `Windows + tab` => mở ra các tab đang chạy
-- `alt + chuột trái` => để tải hình ảnh 
+- `alt + chuột trái` => để tải hình ảnh
 - `ctrl + W` => đóng tab
 - `Snipping Tool` => chụp nhanh màn hình
 - Thao tác trong cmd
@@ -203,24 +239,29 @@ Mở vô file dự án muốn úp
   - `wmic bios get serialnumber` => coi seri laptop
 - `/` => nhảy tới thanh tìm kiếm trên google
 
+**[⬆ Quay trở lại đầu trang](#mục-lục-nội-dung)**
+
 ## 5. Sử dụng workbench trong My SQL
 
 - Sử dụng ngôi sao để lưu snippet code lại
 
 ![alt text](/assets/day-02_snippet_workbench.png)
 
-Xem hướng dẫn [ở đây][mysql] 
+Xem thêm hướng dẫn [ở đây][mysql]
 
 [mysql]: https://www.youtube.com/watch?v=chezeWdTHbo
 
 ## 6. Xóa phần mềm trên máy tính
 
-Xóa phần mềm trên máy tính gồm 3 bước:
+Xóa toàn bộ phần mềm trên máy tính:
 
-- B1: vào trong control panel or apps & features chọn phần mềm cần xóa
-- B2: vào ổ đĩa `C:` truy cập Program Files và xóa folder của phần mềm
-- B3: ra lại ổ đĩa `C:` truy cập ProgramData và xóa folder của phần mềm
-- B4: ra lại ổ đĩa `C:` truy cập Users => Admin => AppData => Roaming => chọn folder của phần mềm
+- Vào ổ đĩa **`C: ==> Program Files`** và xóa folder của phần mềm
+- Vào ổ đĩa **`C: ==> ProgramData`** và xóa folder của phần mềm
+  - ProgramData phải bật lên vì nó là ổ đĩa ẩn
+- Vào ổ đĩa **`C: ==> Users => Admin => AppData => Roaming`** => xóa folder của phần mềm
+  - AppData phải bật lên vì nó là ổ đĩa ẩn
+
+**[⬆ Quay trở lại đầu trang](#mục-lục-nội-dung)**
 
 ## 7. Shortcut trong cmd
 
