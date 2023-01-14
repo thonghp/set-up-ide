@@ -13,10 +13,12 @@
   - [1.6 Biến thành thư mục test và thêm thư viện maven](#16-biến-thành-thư-mục-test-và-thêm-thư-viện-maven)
     - [1.6.1 Biến thành thư mục test](#161-biến-thành-thư-mục-test)
     - [1.6.2 Thêm thư viện maven](#162-thêm-thư-viện-maven)
+  - [1.7 Truy cập file trên project trong cục bộ](#17-truy-cập-file-trên-project-trong-cục-bộ)
 - [2. Shortcut trong eclipse thường dùng nhất](#2-shortcut-trong-eclipse-thường-dùng-nhất)
   - [2.1. Tùy chỉnh cài đặt trong eclipse thường dùng](#21-tùy-chỉnh-cài-đặt-trong-eclipse-thường-dùng)
 - [3. Shortcut trong visual studio code thường dùng nhất](#3-shortcut-trong-visual-studio-code-thường-dùng-nhất)
   - [3.1 Emmet](#31-emmet)
+  - [3.2 Truy cập file trên project trong cục bộ](#32-truy-cập-file-trên-project-trong-cục-bộ)
 - [4. Shortcut trong Windows 10 thường dùng nhất](#4-shortcut-trong-windows-10-thường-dùng-nhất)
 - [5. Sử dụng workbench trong My SQL](#5-sử-dụng-workbench-trong-my-sql)
 - [6. Xóa phần mềm trên máy tính](#6-xóa-phần-mềm-trên-máy-tính)
@@ -152,6 +154,12 @@ Mở vô file dự án muốn úp
 
 **[⬆ Quay trở lại đầu trang](#mục-lục-nội-dung)**
 
+### 1.7 Truy cập file trên project trong cục bộ
+
+Nhấp chuột phải vào file muốn truy cập => `Open In` => `Explorer`
+
+![explorer](/assets/explorer-intellij.png)
+
 ## 2. Shortcut trong eclipse thường dùng nhất
 
 - tạo command => `ctrl + shift + C`
@@ -214,6 +222,12 @@ Mở vô file dự án muốn úp
 - Div chứa class bên trong => `div.className + tab`
 - Div chứa id bên trong => `div#idName + tab`
 - Div lồng div (ở đây chứa 2 div con trong 1 div) => `div>div+div` or `div>div*2`
+
+### 3.2 Truy cập file trên project trong cục bộ
+
+Nhấp chuột phải vào file muốn truy cập => `Reveal in file explorer` hoặc phím tắt `Shift + alt + R`
+
+![explorer](/assets/explorer-vsc.png)
 
 ## 4. Shortcut trong Windows 10 thường dùng nhất
 
