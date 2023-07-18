@@ -16,6 +16,9 @@
 - Path Intellisense - Christian Kohler
 - Material Icon Theme - Phillip kief
 - Markdown Preview Enhance - Yiyi wang
+- Cobalt2 Theme Official - Wes Bos
+- Extension Pack for Java - Microsoft
+- Spring Boot Extension Pack - VMware
 
 ## 2. Các extension dùng trong intellij
 
@@ -23,3 +26,4 @@
 - Solarized
 - Jbljavatoweb
 - SonarLint
+- Github copilot
