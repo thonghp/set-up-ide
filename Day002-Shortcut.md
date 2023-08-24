@@ -23,11 +23,13 @@
 - [5. Sử dụng workbench trong My SQL](#5-sử-dụng-workbench-trong-my-sql)
 - [6. Xóa phần mềm trên máy tính](#6-xóa-phần-mềm-trên-máy-tính)
 - [7. Shortcut trong cmd](#7-shortcut-trong-cmd)
+- [8. Shortcut trong run](#8-shortcut-trong-run)
+- [9. Cấu hình evkey](#9-cấu-hình-evkey)
 
 ## 1. Shortcut trong intellij thường dùng nhất
 
 - nhảy tới lỗi => `F2`
-- tạo command // => `ctrl + /` và command /\* => `shift + ctrl + /`
+- tạo command **`//`** => **`ctrl + /`** và command **`\*`** => **`shift + ctrl + /`**
 - format => `ctrl + atl + L`
 - rename => `shift + F6`
 - tạo nhanh println => `sout`
@@ -280,3 +282,27 @@ Xóa toàn bộ phần mềm trên máy tính:
 ## 7. Shortcut trong cmd
 
 - `cls` => xóa màn hình lệnh như clear trong github
+
+## 8. Shortcut trong run
+
+- **`dxdiag` ==>** xem thông số máy tính
+- **`shell:startup` ==>** mở thư mục start up, nơi chứa các file muốn khởi động cùng window khi mở máy
+- **`services.msc` ==>** mở phần mềm quản lý service, nơi có thể tắt / bật các dịch vụ như bluetooth, update window
+- **`regedit` ==>** mở registry editor
+- **`msinfo32` ==>** coi system information bao gồm thông số máy, tên máy, bios,...
+- **`eventvwr.msc` ==>** xem thông số Event viewer, chủ yếu xem khi máy tắt đột xuất
+
+**[⬆ Quay trở lại đầu trang](#mục-lục-nội-dung)**
+
+## 9. Cấu hình evkey
+
+![evkey](/assets/evkey1.jpg)
+
+- Ở trang này lưu ý phần kiểu gõ là chọn **telex đơn giản** vì nếu chọn telex thì gõ w là nó ra ư xong nhấn cái nữa mới ra w
+- Chọn sửa lỗi dấu của gợi ý 2 tránh bị lỗi khi gõ address
+
+![evkey hệ thống](/assets/evkey2.jpg)
+
+- Loại trừ ứng dụng tự động để nó lưu evkey riêng cho từng app
+
+**[⬆ Quay trở lại đầu trang](#mục-lục-nội-dung)**
