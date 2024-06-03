@@ -1,4 +1,4 @@
-# Day 2: SHORTCUT IN IDE
+# Day 2: SHORTCUT & SYNTAX & CONFIG
 
 ## Mục Lục Nội Dung
 
@@ -25,6 +25,7 @@
 - [7. Shortcut trong cmd](#7-shortcut-trong-cmd)
 - [8. Shortcut trong run](#8-shortcut-trong-run)
 - [9. Cấu hình evkey](#9-cấu-hình-evkey)
+- [10. Lệnh terminal trong xampp](#10-lệnh-terminal-trong-xampp)
 
 ## 1. Shortcut trong intellij thường dùng nhất
 
@@ -192,30 +193,35 @@ Nhấp chuột phải vào file muốn truy cập => `Open In` => `Explorer`
 
 ## 3. Shortcut trong visual studio code thường dùng nhất
 
-- Tùy chỉnh các setting extension => `Ctrl + Shift + P`
-- Xóa dòng => `Ctrl + Shift + K`
-- Di chuyển lên/xuống => `alt + arrow`
-- Comment => `Ctrl + /`
-- Mở command palete (để tìm file) => `ctrl + P`
-- Tìm => `ctrl + F` và replace => `ctrl + H`
-- copy line lên/xuống => `shift + alt + arrow`
-- Hiển thị terminal => **ctrl + `**
-- Chọn nhiều dòng tùy ý => `alt + click`
-- Chọn nhiều dòng nếu liên tục => `ctrl + alt + arrow`
-- Chọn cùng chữ => `ctrl + D`
-- Chọn tất cả cái cùng chữ => `ctrl + shift + L`
-- Đi đến line => `ctrl + G`
-- ẩn/hiển thanh bên=> `Ctrl + B`
-- Chọn dòng hiện tại => `ctrl + L`
+- Nhảy đến dòng/cột chỉ định => `ctrl + G`
+- Chọn đoạn văn bản => `click + (shift + click)`
+- Di chuyển dòng hiện tại lên/xuống => `alt + arrow`
 - format => `shift + alt + F`
+- copy hàng trên/dưới => `shift + alt + arrow`
+- Tìm => `ctrl + F` và replace => `ctrl + H`
+- Comment => `Ctrl + /`
+- Tạo nhiều con trỏ với vị trí ngẫu nhiên => `alt + click`
+- Tạo nhiều con trỏ với vị trí trên 1 cột => `ctrl + alt + arrow`
+- Đóng file => `Ctrl + F4` or `ctrl + W`
+- Tìm kiếm từ hoặc cụm từ giống nội dung => `ctrl + D`
+  - Mỗi lần nhấn nó sẽ chọn từ/cụm khớp, nó sẽ chọn từ vị trí hiện tại xong tìm xuống dưới
+- Chọn tất cả từ/cụm khớp => `ctrl + shift + L`
+- Xóa dòng hiện tại => `Ctrl + Shift + K`
+- Chọn dòng hiện tại => `ctrl + L`
+- Mở quick open (để tìm file) => `ctrl + P`
+- Hiển thị terminal => **ctrl + `**
+- Mở command palette để tìm kiếm tính năng, lệnh, extension => `Ctrl + Shift + P`
+- ẩn/hiển thanh explorer của vscode => `Ctrl + B`
 - hint => `ctrl + space`
-- Xem hàm hoặc biến => `ctrl + shift + O`
+- Open bảng các phím tắt => `ctrl + K + S`
+
+**Dùng trong code angular,... trong vscode**
+
 - Tìm hàm hoặc biến => `ctrl + T`
+- Xem hàm hoặc biến => `ctrl + shift + O`
 - Nhảy tới hàm => `F12` và nhấn `alt + ←` để quay trở lại
 - Xem hàm được dùng ở đâu => `Shift + F12`
 - Đổi tất cả tên hàm cùng lúc => `F2`
-- Đóng file => `Ctrl + F4` or `ctrl + W`
-- Open bảng các phím tắt => `ctrl + K + S`
 
 **[⬆ Quay trở lại đầu trang](#mục-lục-nội-dung)**
 
@@ -281,7 +287,10 @@ Xóa toàn bộ phần mềm trên máy tính:
 
 ## 7. Shortcut trong cmd
 
-- `cls` => xóa màn hình lệnh như clear trong github
+- **`cls`** => xóa màn hình lệnh như clear trong github
+- **`dir`** => xem các file có trong thư mục
+- **`cd <name>`** => di chuyển tới ổ đĩa chỉ định
+- **`code .`** => mở vsc 
 
 ## 8. Shortcut trong run
 
@@ -304,5 +313,16 @@ Xóa toàn bộ phần mềm trên máy tính:
 ![evkey hệ thống](/assets/evkey2.jpg)
 
 - Loại trừ ứng dụng tự động để nó lưu evkey riêng cho từng app
+
+**[⬆ Quay trở lại đầu trang](#mục-lục-nội-dung)**
+
+## 10. Lệnh terminal trong xampp
+
+- B1: chạy xampp > chạy apache + mysql
+- B2: chọn shell
+- B3: nhập lệnh **`mysql -u root -p`**
+- B4: phần **`enter password`** để trống
+- B5: **`show databases;`** => để xem các database hiện có
+- B6: **`USE <name-database>;`** => truy cập vào database;
 
 **[⬆ Quay trở lại đầu trang](#mục-lục-nội-dung)**

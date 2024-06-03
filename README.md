@@ -2,12 +2,12 @@
 
 ## Các bài viết
 
-| Bài viết                    | Link         |
-| --------------------------- | ------------ |
-| Day 1: Markdown User Manual | [Link][day1] |
-| Day 2: Shortcut In IDE      | [Link][day2] |
-| Day 3: Naming Convention    | [Link][day3] |
-| Day 4: Extension            | [Link][day4] |
+| Bài viết                          | Link         |
+| --------------------------------- | ------------ |
+| Day 1: Markdown User Manual       | [Link][day1] |
+| Day 2: Shortcut & Syntax & Config | [Link][day2] |
+| Day 3: Naming Convention          | [Link][day3] |
+| Day 4: Extension                  | [Link][day4] |
 
 ## Tác giả
 
