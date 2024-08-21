@@ -290,6 +290,7 @@ Xóa toàn bộ phần mềm trên máy tính:
 - **`cls`** => xóa màn hình lệnh như clear trong github
 - **`dir`** => xem các file có trong thư mục
 - **`cd <name>`** => di chuyển tới ổ đĩa chỉ định
+- **`cd ..`** => lùi thư mục hiện tại lại một bậc
 - **`code .`** => mở vsc 
 
 ## 8. Shortcut trong run
