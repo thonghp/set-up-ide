@@ -193,32 +193,34 @@ Nhấp chuột phải vào file muốn truy cập => `Open In` => `Explorer`
 
 ## 3. Shortcut trong visual studio code thường dùng nhất
 
-- Nhảy đến dòng/cột chỉ định => `ctrl + G`
-- Chọn đoạn văn bản => `click + (shift + click)`
-- Di chuyển dòng hiện tại lên/xuống => `alt + arrow`
-- format => `shift + alt + F`
-- copy hàng trên/dưới => `shift + alt + arrow`
-- Tìm => `ctrl + F` và replace => `ctrl + H`
-- Comment => `Ctrl + /`
-- Tạo nhiều con trỏ với vị trí ngẫu nhiên => `alt + click`
 - Tạo nhiều con trỏ với vị trí trên 1 cột => `ctrl + alt + arrow`
-- Đóng file => `Ctrl + F4` or `ctrl + W`
+- Tạo nhiều con trỏ với vị trí ngẫu nhiên => `alt + click`
+- Di chuyển dòng hiện tại lên/xuống => `alt + arrow`
+- copy hàng trên/dưới => `shift + alt + arrow`
+- Format => `shift + alt + F`
+- Format cột nếu quá dài => `alt + Z`
+- Chọn dòng hiện tại => `ctrl + L`
 - Tìm kiếm từ hoặc cụm từ giống nội dung => `ctrl + D`
   - Mỗi lần nhấn nó sẽ chọn từ/cụm khớp, nó sẽ chọn từ vị trí hiện tại xong tìm xuống dưới
 - Chọn tất cả từ/cụm khớp => `ctrl + shift + L`
+- Nhảy đến dòng/cột chỉ định => `ctrl + G`
+- Tìm => `ctrl + F` và replace => `ctrl + H`
+- Chọn đoạn văn bản => `click + (shift + click)`
+- Comment => `Ctrl + /`
+- Di chuyển giữa các tab => ctrl tab
+- Đóng file => `Ctrl + F4` or `ctrl + W`
 - Xóa dòng hiện tại => `Ctrl + Shift + K`
-- Chọn dòng hiện tại => `ctrl + L`
-- Mở quick open (để tìm file) => `ctrl + P`
 - Hiển thị terminal => **ctrl + `**
 - Mở command palette để tìm kiếm tính năng, lệnh, extension => `Ctrl + Shift + P`
 - ẩn/hiển thanh explorer của vscode => `Ctrl + B`
 - hint => `ctrl + space`
 - Open bảng các phím tắt => `ctrl + K + S`
 
-**Dùng trong code angular,... trong vscode**
+**Dùng trong code**
 
-- Tìm hàm hoặc biến => `ctrl + T`
-- Xem hàm hoặc biến => `ctrl + shift + O`
+- Mở quick open (để tìm file) => `ctrl + P`
+- Xem hàm hoặc biến trong file đang chọn => `ctrl + shift + O`
+- Tìm hàm hoặc biến trong toàn bộ file => `ctrl + T`
 - Nhảy tới hàm => `F12` và nhấn `alt + ←` để quay trở lại
 - Xem hàm được dùng ở đâu => `Shift + F12`
 - Đổi tất cả tên hàm cùng lúc => `F2`
